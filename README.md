@@ -1,6 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jambumoses.jambumoses" />
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" />
+</p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" />
+<p align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jambumoses.jambumoses" />
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jambu+Moses!;" />
@@ -76,7 +80,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jambu+Moses!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+Trophies+🏆;" />
 </h1>
 
 
