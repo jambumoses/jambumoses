@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jambumoses.jambumoses" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jambu+Moses!;" />
@@ -18,9 +18,9 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/jambumoses/jambumoses/issues)**
 
-- 📫 How to reach me **jambcareer@gmail.com**
+📫 How to reach me **jambcareer@gmail.com**
 
-- 📄 Know about my experiences **[here](https://www.jambumoses.com/)**
+📄 Know about my experiences **[here](https://www.jambumoses.com/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
