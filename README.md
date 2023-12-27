@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jambumoses.jambumoses" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jambumoses" alt="jambumoses" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jambumoses&label=Profile%20views&color=0e75b6&style=flat" alt="jambumoses" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jambu+Moses!;" />
@@ -81,7 +79,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jambu+Moses!;" />
 </h1>
 
-<br/><br/>
+
+<p align="left"> <a href="https://github.com/jambumoses/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jambumoses" alt="jambumoses" /></a> </p>
+
+<br/>
 
 <hr/>
 
